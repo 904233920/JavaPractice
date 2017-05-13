@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;MySSHDome/src/jdbc.xml&apos; to &apos;jdbc.properties&apos;" description="Rename resource &apos;jdbc.xml&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/jdbc.xml" name="jdbc.properties" stamp="1494559236523" updateReferences="true"/>
+</session>

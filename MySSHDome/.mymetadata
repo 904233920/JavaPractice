@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="MySSHDome"
+  id="myeclipse.1494508633442"
+  context-root="/MySSHDome"
+  j2ee-spec="5.0"
+  archive="MySSHDome.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
